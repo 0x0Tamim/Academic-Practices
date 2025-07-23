@@ -1,0 +1,12 @@
+Macchiato,250.0,119
+Caramel,1000.0,54
+latte,220.0,62
+FlatWhite,120.0,46
+Frappuccino,450.0,44
+irish,520.0,15
+Espresso,250.0,42
+Cappuccino,200.0,44
+Americano,300.0,39
+ColdCoffee,100.0,41
+hotcoffee,500.0,91
+Tea,20.0,75

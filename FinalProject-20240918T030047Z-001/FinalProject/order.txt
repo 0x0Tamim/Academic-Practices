@@ -1,0 +1,70 @@
+Customer name: Sajid  
+Item name: Macchiato
+Quantity: 3
+TotalBill : 750.0
+-------=======-------
+Customer name: Sajid  
+Item name: Caramel
+Quantity: 6
+TotalBill : 6000.0
+-------=======-------
+Customer name: Tamim  
+Item name: latte
+Quantity: 6
+TotalBill : 1320.0
+-------=======-------
+Customer name: Tamim  
+Item name: Flatwhite
+Quantity: 5
+TotalBill : 600.0
+-------=======-------
+Customer name: Shuliman  
+Item name: Frappuccino
+Quantity: 5
+TotalBill : 2250.0
+-------=======-------
+Customer name: Tamim  
+Item name: irish
+Quantity: 5
+TotalBill : 2600.0
+-------=======-------
+Customer name: Sajid  
+Item name: Espresso
+Quantity: 5
+TotalBill : 1250.0
+-------=======-------
+Customer name: Mujahid  
+Item name: Cappuccino
+Quantity: 4
+TotalBill : 800.0
+-------=======-------
+Customer name: Tamim  
+Item name: Americano
+Quantity: 5
+TotalBill : 1500.0
+-------=======-------
+Customer name: Sajid  
+Item name: coldcoffee
+Quantity: 4
+TotalBill : 400.0
+-------=======-------
+Customer name: Mujahid  
+Item name: hotcoffee
+Quantity: 5
+TotalBill : 2500.0
+-------=======-------
+Customer name: Shuliman  
+Item name: Tea
+Quantity: 10
+TotalBill : 200.0
+-------=======-------
+Customer name: Tamim  
+Item name: Tea
+Quantity: 5
+TotalBill : 100.0
+-------=======-------
+Customer name: Tamim  
+Item name: Tea
+Quantity: 10
+TotalBill : 200.0
+-------=======-------
