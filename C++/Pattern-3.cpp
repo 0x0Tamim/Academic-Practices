@@ -1,21 +1,18 @@
 #include<iostream>
-#include<cmath>
 using namespace std;
-int main()
-{
 
-    int n;
+int main(){
+    int n,count=1;
     cin>>n;
-    int  num = 0;
-    for(int i=0; i<n; i++)
-    {
-        for(int j = 0; j<n; j++)
-        {
-            cout<<char(65+num);
-            num++;
-        }
-        cout<<endl;
+for(int i=1;i<=n;i++){
+    for(int j =1;j<=n;j++){
+        cout<<count<<"\t";
+        count++;
     }
-
-
+    cout<<endl;
 }
+
+
+    return 0;
+}
+

@@ -2,12 +2,14 @@
 using namespace std;
 
 int main(){
-    int n,count= 1;
+    int n;
     cin>>n;
-for(int i=1;i<=n;i++){
+for(int i=1;i<=n;i++)
+       {   int p=i;
     for(int j =1;j<=i;j++){
-        cout<<count<<"\t";
-        count++;
+
+        cout<<p<<"\t";
+    p--;
     }
     cout<<endl;
 }

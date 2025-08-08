@@ -1,21 +1,11 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
-
-    cout<<"Enter n:";
-    int n;
-    cin>>n;
-    for(int i = 1 ;i<=n;i++){
-
-        for(int j = 1;j<=n;j++){
-            cout<<"*"<<" ";
-
+    for(int i =1;i<6;i++){
+        for(int j=1;j<5;j++){
+            cout<<j;
         }
-
         cout<<endl;
-
     }
-
 }
