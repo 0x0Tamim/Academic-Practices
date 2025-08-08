@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696379261 source:c:\users\dell\desktop\c programming\print greatest number\main.c
+	<stdio.h>
+	<stdlib.h>
+
